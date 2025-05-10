@@ -1,0 +1,24 @@
+{
+  "name": "private_obsidian_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RentoYabuki06/private_obsidian_tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RentoYabuki06/private_obsidian_tool/issues"
+  },
+  "homepage": "https://github.com/RentoYabuki06/private_obsidian_tool#readme",
+  "dependencies": {
+    "glob": "^11.0.2",
+    "gray-matter": "^4.0.3"
+  }
+}
