@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/RentoYabuki06/private_obsidian_tool#readme",
   "dependencies": {
-    "glob": "^11.0.2",
+    "glob": "^7.2.3",
     "gray-matter": "^4.0.3"
   }
 }
